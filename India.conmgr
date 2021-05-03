@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="India"
+  DTS:DTSID="{2193E97F-944F-4E03-92D9-F25237C12C3E}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=sapdb.,3341;User ID=BOSSIS0001;Initial Catalog=SBK_OAF_ACC_IN;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1"
+        p4:Salt="OnwjKbI1Kwg="
+        p4:IV="hd5yUEGpizXR67NcxPInIA=="
+        p4:Algorithm="http://www.w3.org/2001/04/xmlenc#aes256-cbc" xmlns:p4="www.microsoft.com/SqlServer/SSIS">fvIP3tHbo9GzNDGJZEj/D/RThKcOYZKUr7VQdf1axlpL4WdZcj60zkBfPiwz62ksNOtSP3axKI8lFHKWKKDE/P+K9hhXlGS+Y+xTHtFeAr+kBItK8+v0G8TrdxC5z/wbEq0fKcHJINO5H7kBQcstNwfQWDSezVhL44uiwC3TGrs=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Malawi"
+  DTS:DTSID="{BD593208-4978-48C6-9350-F55F429B8E5D}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=sapdb.,3341;User ID=BOSSIS0001;Initial Catalog=SBK_OAF_ACC_MAL;Provider=SQLNCLI11.1;Persist Security Info=True;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1"
+        p4:Salt="X6gRLucAGEo="
+        p4:IV="iejaRNqZMVhjBb0c3U4mWA=="
+        p4:Algorithm="http://www.w3.org/2001/04/xmlenc#aes256-cbc" xmlns:p4="www.microsoft.com/SqlServer/SSIS">o/u/gZvcnt/jEN/pria2fm/Z2wOzsQLOPTglhqk6IveMVDIvVkKBPJgtwdrv6feCh+sowTrnNl3KuEqhM71QKjgzgpH9+5RFhw0Iyl1aRvJmCX0l+jVlorvrgHpNuSstn0VdiQtjPnzWwy7bqLbNYAxj8eVt/a1BoJT68ySFNvk=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="webportal"
+  DTS:DTSID="{293266B2-5AC3-44AF-AB2E-DDEFE76E7EA5}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=oaffinance.database.windows.net;User ID=BOSSIS0001;Initial Catalog=OAFFinance;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlFuhTuKA5kauWgYiH3W9KQAAAAACAAAAAAAQZgAAAAEAACAAAABB2fGd5SZ21mv4DLFobRIjY1uTMJrUn3tmdjZUKQpBaAAAAAAOgAAAAAIAACAAAABkoEpg7yWl9g73r5f60QcuyqrPh0yNoOq2gtrty9H/nYAAAABWFbkEm45CqpSum6RvEdVk5aD25kVvRWmWqZnhTLenSkMku4F+VG6Yyjp6H60C3IL78p9aQEtWwfEwJg0qXeU2Ku/COAjhnCdtvrOJyi+2MfQwcVojoeYPxRxHZ4fZ0FPt2LFWgAapUueXhkOuvI8vTGwhzTQRY6r7Jgpyh6i/WUAAAABv+spY0J8beenD2XHp7sQuCHre7WxfsePcxfJLCmDisLOX88jHF0D24aGo0WEnnMlsv0YIs8su5CpT5I2AekCL</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
